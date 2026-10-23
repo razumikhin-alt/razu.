@@ -9,7 +9,7 @@ Cada pessoa usa seu próprio Site, seus dados e suas conexões. O produto não e
 Abra uma conversa Work pelo aplicativo do ChatGPT no seu celular e envie este comando:
 
 ```text
-Instale meu razu. a partir de https://github.com/razumikhin-alt/razu..
+Instale meu razu. a partir de https://github.com/razumikhin-alt/razu.
 Use a versão da branch main e siga INSTALAR.txt e INSTRUCOES-DO-AGENTE.md.
 Faça o provisionamento na minha conta e mantenha meu Site e meus dados privados.
 Conduza comigo a configuração e o teste manual, do início ao fim.
@@ -78,7 +78,7 @@ O razu. avisa na biblioteca quando uma nova versão fica disponível no GitHub.
 Selecione **Ver atualização** e copie o pedido. Envie-o no Work pelo aplicativo do ChatGPT no seu celular.
 O ChatGPT atualiza o Site e as skills, preservando seus dados e suas configurações.
 O aviso aparece após a verificação periódica; não é uma notificação do celular.
-Para atualizar, envie: "Atualize meu razu. pelo pacote oficial https://github.com/razumikhin-alt/razu.. Preserve meu Site e meus dados."
+Para atualizar, envie: "Atualize meu razu. pelo pacote oficial https://github.com/razumikhin-alt/razu. Preserve meu Site e meus dados."
 
 ---
 
