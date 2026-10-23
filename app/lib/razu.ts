@@ -1,0 +1,5 @@
+export const APP_NAME="razu.";
+export const CAPTURE_CHAT_URL="https://chatgpt.com/c/6ad97476-7660-83e8-807d-c8324b0b767e";
+export function capturePrompt(origin:string){
+  return `Capture agora meus novos Reels salvos do Instagram para o razu. em ${origin}. Execute esta captura manual no Work pelo aplicativo do ChatGPT no celular, usando a skill capturar-favoritos e o workflow.txt atual retornado por get_runtime. Use trigger=manual, runtime 1.7.5 ou compatível posterior, contrato 1.0.0 e pacote da API 0.1.0. Processe todos os pendentes elegíveis antes da descoberta e os novos pendentes após cada página, um item por vez. Preserve o baseline concluído, as exclusões, o escopo, as edições manuais, as categorias e o conteúdo já verificado. Respeite leases ativas, retry_at, cooldowns e controles do host. Não repita tentativas já feitas nesta execução. Mantenha Site e dados privados. Grave e releia os resultados, limpe os arquivos temporários e finalize a lease. Não crie nem altere agendamentos. Informe o resultado e as pendências.`;
+}
