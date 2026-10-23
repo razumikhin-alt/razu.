@@ -16,6 +16,8 @@ Conduza comigo a configuração e o teste manual, do início ao fim.
 Deixe-me escolher o intervalo e o fuso da captura automática.
 ```
 
+O ponto final de `razu.` faz parte do nome do repositório; o endereço sem esse ponto pertence a outro projeto.
+
 Use a execução na nuvem. Mantenha "run on this computer" desligado quando essa opção aparecer.
 Se você recebeu um arquivo ZIP, anexe-o e envie o texto de INSTALAR.txt.
 O ChatGPT usa INSTRUCOES-DO-AGENTE.md para instalar e verificar o aplicativo.
